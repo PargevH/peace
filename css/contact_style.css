@@ -1,0 +1,101 @@
+* {
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+}
+
+.map {
+    padding-bottom: 21px;
+}
+
+.content {
+	width: 1170px;
+	margin: 0 auto;
+}
+
+h2 {
+    margin-top: 8px;
+    margin-bottom: 28px;
+    color: #9b9b9b;
+    text-transform: uppercase;
+    font: 600 30px/30px "Open Sans", Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.left_div {
+	display: inline-block;
+}
+
+.adress {
+	width: 190px;
+	display: inline-block;
+    margin-top: -3px;
+    color: #b0b0b0;
+    font-family: "Open Sans", Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 23px;
+}
+
+.number {
+	float: right;
+}
+
+.link {
+	color: #b0b0b0;
+}
+
+.link:hover {
+	color: #000;
+}
+
+.right_div {
+	width: 580px;
+	float: right;
+	margin-left: 145px;
+}
+
+.forma_main {
+    margin-top: 17px;
+}
+
+fieldset {
+	border: 0;
+}
+
+.input_a {
+	margin-bottom: 10px;
+    padding: 6px 10px 7px 13px;
+    width: 345px;
+    border: 1px solid #e3e3e3;
+    color: #b0b0b0;
+    font: 14px Arial;
+    line-height: 21px;
+}
+
+textarea {
+	width: 580px;
+	height: 271px;
+	margin-bottom: 10px;
+    padding: 6px 10px 7px 13px;
+    border: 1px solid #e3e3e3;
+    color: #b0b0b0;
+    font: 14px Arial;
+} 
+
+.btn {
+	background: #fdb74f;
+    padding: 10px 15px;
+    color: #fff;
+    font: 14px/38px "Arial", Arial, "Helvetica Neue", Helvetica, sans-serif;
+    border-radius: 5px;
+    transition: all 0.5s ease-in-out;
+}
+
+.btns {
+	float: right;
+}
+
+.btn:hover {
+	color: #fdb74f;
+	background: #000;
+}

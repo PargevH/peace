@@ -1,0 +1,29 @@
+* {
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+}
+
+.map {
+	margin: 0;
+    padding-bottom: 21px;
+    width: 440px;
+}
+
+.content {
+	width: 1170px;
+	margin: 0 auto;
+}
+
+h2 {
+    margin-top: 8px;
+    margin-bottom: 28px;
+    color: #9b9b9b;
+    text-transform: uppercase;
+    font: 600 30px/30px "Open Sans", Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.left_div {
+	display: inline-block;
+}
